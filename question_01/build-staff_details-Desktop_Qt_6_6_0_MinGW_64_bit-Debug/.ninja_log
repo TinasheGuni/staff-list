@@ -1,0 +1,13 @@
+# ninja log v5
+7	12343	7259598061956609	staff_details_autogen/timestamp	ce8a38292f03cee7
+7	12343	7259598061956609	staff_details_autogen/mocs_compilation.cpp	ce8a38292f03cee7
+7	12343	7259598061956609	C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/staff_details_autogen/timestamp	ce8a38292f03cee7
+7	12343	7259598061956609	C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/staff_details_autogen/mocs_compilation.cpp	ce8a38292f03cee7
+12424	56379	7259598509357305	CMakeFiles/staff_details.dir/main.cpp.obj	a850531041d1eea0
+12702	56907	7259598511756094	CMakeFiles/staff_details.dir/filewriter.cpp.obj	78123021f61693ff
+12657	56910	7259598512955791	CMakeFiles/staff_details.dir/stafflistwriter.cpp.obj	9576fb7cb01f9118
+12385	56911	7259598512955791	CMakeFiles/staff_details.dir/staffdetails.cpp.obj	d127ffc8d6f7fc21
+12345	56913	7259598513153721	CMakeFiles/staff_details.dir/staff_details_autogen/mocs_compilation.cpp.obj	f764f7d287d1110f
+12491	56921	7259598513107852	CMakeFiles/staff_details.dir/staffdetailsgui.cpp.obj	1b90cd81a80c4a30
+56586	60853	7259598555657766	CMakeFiles/staff_details.dir/stafflist.cpp.obj	eb62ff3288846b3b
+60853	68282	7259598627854824	staff_details.exe	4ef13fd607fe846c

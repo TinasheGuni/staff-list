@@ -1,0 +1,9 @@
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/staff_details.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/staff_details_autogen_timestamp_deps.dir
+C:/projects/staff-list/question_01/build-staff_details-Desktop_Qt_6_6_0_MinGW_64_bit-Debug/CMakeFiles/staff_details_autogen.dir
