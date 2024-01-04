@@ -1,2 +1,0 @@
-<p align="center"><img align="center" width="280" src="./assets/Untitled-1.svg#gh-dark-mode-only"></p> 
-<p align="center"><img align="center" width="280" src="./assets/Untitled-2.svg#gh-dark-mode-only"></p> 
